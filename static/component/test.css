@@ -1,0 +1,12 @@
+body{
+	margin: 0;
+}
+.parent-session{
+	margin: 10px;
+}
+.child-session{
+	font-family: Garamond, Monaco;
+}
+form{
+	margin: 100px;
+}
